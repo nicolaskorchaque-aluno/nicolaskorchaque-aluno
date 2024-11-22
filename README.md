@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nicolas Korchaque! 👋
 
-##### Estudante de desenvolvimento web com experiência em criação de jogos e aplicativos adquirida na Cebrac. Busco oportunidades para aplicar meus conhecimentos em projetos e colaborar com minha experiencia. Sou um entusiasta de novas tecnologias e estou sempre disposto a aprender e me desenvolver.
+ Estudante de desenvolvimento web com experiência em criação de jogos e aplicativos adquirida na Cebrac. Busco oportunidades para aplicar meus conhecimentos em projetos e colaborar com minha experiencia. Sou um entusiasta de novas tecnologias e estou sempre disposto a aprender e me desenvolver.
 
 ![status do Nicolaskorchaque no GitHub ](https://github-readme-stats.vercel.app/api?username=nicolaskorchaque&show_icons=true&theme=tokyonight)
 
