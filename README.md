@@ -1,15 +1,8 @@
 ## Olá! Eu sou o Nicolas Korchaque! 👋
 
- Estudante de desenvolvimento web com experiência em criação de jogos e aplicativos adquirida na Cebrac. Busco oportunidades para aplicar meus conhecimentos em projetos e colaborar com minha experiencia. Sou um entusiasta de novas tecnologias e estou sempre disposto a aprender e me desenvolver.
 
+Sou estudante do ensino médio e gosto de explorar o mundo da programação. Sou um grande fã de Star Wars e sou louco pela cultura geek. seja bem vindo ao meu **GitHub**
 
-<br>
-<picture>
-<source media="(prefers-color- esquema: escuro)" srcset="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: luz)" srcset="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</br>
 
 ### Essas são as tecnologias que eu aprendi 
 <div style="display: inline_block">
@@ -21,4 +14,4 @@
 #### Acesse meu instagram
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolaskorchaque)
 
- 
+
